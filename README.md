@@ -1,16 +1,60 @@
-## Hi there 👋
 
-<!--
-**harukikawakatsu/harukikawakatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img style="text-align:center" src="https://github-simple-icon-generator.vercel.app/api/?username=harukikawakatsu" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+|目次|概要|
+|:---:|:---:|
+|[自己紹介](#自己紹介)|趣味や出身地などの簡単な自己紹介|
+|[これからの目標](#これからの目標)|これから実現したいことや目標|
+|[開発経験](#開発経験)|開発したwebアプリを紹介します|
+|[経歴](#自己紹介)|簡単な経歴を紹介|
+|[保有資格](#保有資格)|これまでに取得した資格|
+|[経験のある技術](#経験のある技術)|これまでに使用経験がある技術を紹介|
+
+#### 自己紹介
+高崎経済大学経済学部経済学科3年の川勝春輝です。
+出身は北海道です。
+趣味は野球と登山です。
+野球サークルに所属しています。
+焼肉屋でアルバイトをしています。
+猫派です。
+
+#### これからの目標
+フルスタックエンジニアになる！
+
+#### 開発経験
+個人で画像投稿型SNSアプリの開発
+ハッカソンでDJのための楽曲ライブラリ生成アプリの開発
+
+#### 経歴
+|期間|経歴|
+|:---:|:---:|
+|2022/4 ~|高崎経済大学経済学部入学|
+|2022/5 ~|焼肉屋でアルバイト|
+|2024/1 ~ 2020/3|レバテックカレッジ入校。アプリ制作のための学習スタート|
+|2024/5|画像投稿型SNSアプリ完成
+|2024/7|初めてハッカソンに参加
+|~ 2026/3|高崎経済大学経済学部卒業見込|
+
+
+---
+#### 保有資格
+- ITパスポート
+- 基本情報技術者（2024年8月合格見込）
+- 実用英語技能検定2級
+
+
+取得予定
+- 応用情報術者（2024年11月受験）
+
+#### 経験のある技術
+- php : 個人でのアプリ開発で4か月
+- python : ハッカソンで少しだけ
+- AWSのEC2,ECSをつかった基本的な環境構築
+- javascript(react) : ハッカソンで少しだけ
+- github/git/github
+- Google Maps Platform API
+- Spotify API
+
+
