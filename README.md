@@ -48,14 +48,15 @@
 - 実用英語技能検定2級（2021年9月)
 
 
-取得予定
-- 応用情報術者（2024年11月受験）
+これから取得したい資格
+- 応用情報術者
 
 #### 経験のある技術
-- php : 個人でのアプリ開発で4か月
-- python : ハッカソンで少しだけ
+- php : 個人でのアプリ開発で6か月
+- python : ハッカソンなどで1か月
 - AWSのEC2,ECSをつかった基本的な環境構築
-- javascript(react) : ハッカソンで少しだけ
+- javascript(react) : 8か月
+- R言語 : ゼミの研究で1年間
 - github/git/github
 - Google Maps Platform API
 - Spotify API
